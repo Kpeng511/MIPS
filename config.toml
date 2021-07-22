@@ -1,5 +1,9 @@
-#baseURL = "http://example.org/"
-#languageCode = "en-us"
-#title = "MIPS"
-#theme = "dimension"
+baseURL = "http://mips.github.io"
+languageCode = "en-us"
+title = "MIPS"
+subtitle = "Enhanced rewards, just for you."
+theme = "dimension"
 publishDir = "docs"
+
+description = "draft: description field"
+metaDiscription = ""
