@@ -1,3 +1,7 @@
 [submodule "themes/dimension"]
 	path = themes/dimension
 	url = https://github.com/your-identity/hugo-theme-dimension.git
+[submodule "public"]
+	path = public
+	url = https://github.com/Kpeng511/mips.github.io.git
+	branch = master
