@@ -1,5 +1,0 @@
-
----
-title: "other"
-draft: true
----
