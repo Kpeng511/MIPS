@@ -1,10 +1,10 @@
 
 ---
-title: "MIPS®"
-description: "Customize your build. Maximize your gains."
+title: "Preworkout®"
+description: "Customize your figure. Maximize your gains."
 draft: true
-background: "images/bwgym.jpg"
-logo: "images/squats.svg"
+background: "https://media.giphy.com/media/13bGgH9VnEDsuA/giphy.gif"
+logo: "images/mips.svg"
 ---
 
 *This is the homepage of the website*
