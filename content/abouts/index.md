@@ -1,54 +1,10 @@
 ---
-title: "abouts"
+title: "About Us"
 draft: True
+image: "images/lnl.jpg"
 ---
 
-## Table of contents
+一份執著．一席來自醫師兼健身者的話．
 
-- [Table of contents](#table-of-contents)
-- [Text](#text)
-- [Code](#code)
-  - [Python](#python)
-  - [C/C++](#cc)
-  - [Bash](#bash)
-- [Tables](#tables)
-
-## Text
-
-Some example text
-
-## Code
-
-### Python
-
-```python
-def foo():
-    print ("This is a python function")
-```
-
-### C/C++
-
-```C
-void foo(){
-    prinf("%s\n", "This is a C function")
-}
-```
-
-### Bash
-
-```bash
-# This is a bash command
-cd dir && echo $PWD;
-
-# Return
-exit 0;
-```
-
-## Tables
-
-| Pages | Elements |
-| ----- | -------- |
-| 1     | Text     |
-| 2     | Code     |
-| 3     | Tables   |
+*"教練我平常晚上健身，喝了含咖啡因的高蛋白飲料怎麼睡得著？！"*
 
