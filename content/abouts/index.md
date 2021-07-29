@@ -1,7 +1,54 @@
-
 ---
-title: "Abouts"
-draft: true
+title: "abouts"
+draft: True
 ---
 
-This is the about-us page for the website. Highly relevant yet concise information shall be displayed in this segment. The content is yet to be decide and shall be done in a considerate matter.
+## Table of contents
+
+- [Table of contents](#table-of-contents)
+- [Text](#text)
+- [Code](#code)
+  - [Python](#python)
+  - [C/C++](#cc)
+  - [Bash](#bash)
+- [Tables](#tables)
+
+## Text
+
+Some example text
+
+## Code
+
+### Python
+
+```python
+def foo():
+    print ("This is a python function")
+```
+
+### C/C++
+
+```C
+void foo(){
+    prinf("%s\n", "This is a C function")
+}
+```
+
+### Bash
+
+```bash
+# This is a bash command
+cd dir && echo $PWD;
+
+# Return
+exit 0;
+```
+
+## Tables
+
+| Pages | Elements |
+| ----- | -------- |
+| 1     | Text     |
+| 2     | Code     |
+| 3     | Tables   |
+
