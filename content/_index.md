@@ -1,9 +1,9 @@
 
 ---
-title: "Preworkout®"
+title: "MIPS®"
 description: "Customize your figure. Maximize your gains."
 draft: true
-background: "https://media.giphy.com/media/13bGgH9VnEDsuA/giphy.gif"
+background: "images/main.jpg"
 logo: "images/mips.svg"
 ---
 
