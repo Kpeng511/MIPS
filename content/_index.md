@@ -1,10 +1,10 @@
 
 ---
-title: "MIPS®"
-description: "Customize your figure. Maximize your gains."
+title: "Pre-workout rec. Engine"
+description: "Pre-workout supplements, personalized."
 draft: true
 background: "images/main.jpg"
-logo: "https://maple.yampiz.com/maple/custom/npc/np_v062.gif"
+logo: "images/mips.svg"
 ---
 
 *This is the homepage of the website*
