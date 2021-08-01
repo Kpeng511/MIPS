@@ -2,6 +2,7 @@
 title: "About Us"
 draft: True
 image: "images/lnl.jpg"
+isCJKLanguage: true
 ---
 
 ## 目錄
