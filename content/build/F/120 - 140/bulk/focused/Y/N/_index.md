@@ -2,6 +2,6 @@
 ---
 title: "No"
 description:
-logo: "../../../../../../images/mips.svg"
+logo: "../../../../../../../images/mips.svg"
 draft: true
 ---
