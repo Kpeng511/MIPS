@@ -7,16 +7,14 @@ isCJKLanguage: true
 
 ## 目錄
 
-- [起源](#起源) 
-- [目標](#目標)
-- [成分作用](#成分作用)
+- [Origins](#Origins) 
+- [Goals](#Goals)
+- [Ingredients](#Ingredients)
 
 ---
-## 起源
+## Origins
 
-**一份執著。一席來自醫師兼健身者的話。**
-
-*"教練我平常晚上健身，喝了含咖啡因的補品怎麼睡得著？！"*
+*"Coach, I've been exercising regularly in the evening. How is it possible to fall asleep after consuming 教練我平常晚上健身，喝了含咖啡因的補品怎麼睡得著？！"*
 
 平日高頻率健身的黎醫師又一次聽到了其他健身人士這麼抱怨。**沒錯**。當前，台灣市面上可輕易購買的Preworkout不僅少之又少，其成分又時常難以符合健身民眾所需。
 
@@ -27,11 +25,11 @@ isCJKLanguage: true
 如果有一個平台，可以根據自身的情況及當時的目標，推薦適合的pre workout，對大多數的健身愛好者，是個省時省力的事情。
 
 ---
-## 目標
+## Goals
 ---
-## 成分作用
+## Ingredients
 
-Pumping血管擴張, 充血,:
+Pumping
 Agmatine Sulfate, Citrulline Malate, Citrulline, betaine
 
 Focus
@@ -47,7 +45,7 @@ More reps, endurance
 Beta-alanine, Taurine
 
 
-食品添加劑
+Food Additive
 Citric Acid
 Manufacturers use citric acid to make their pre-workout powders more water soluble. Otherwise, you would have a hard time mixing them with liquids.
 
@@ -63,7 +61,7 @@ Carrageenan is a natural emulsifier made from red seaweed and is used in food pr
 Tartaric Acid as a supplement doesn’t really make sense.
 
 
-Electrolytes電解質
+Electrolytes
 Magnesium Chloride Can Help You Recover From Exercise Quicker
 The ingestion of 0.5 g of sodium citrate/kg body mass shortly before a 5 km running time trial improves performance in well trained college runners. (Oöpik V, Saaremets I, Medijainen L, Karelson K, Janson T, Timpmann S. Effects of sodium citrate ingestion before exercise on endurance performance in well trained college runners. Br J Sports Med. 2003 Dec;37(6):485-9. doi: 10.1136/bjsm.37.6.485. PMID: 14665584; PMCID: PMC1724692.)
 Sodium Chloride: You reduce your risk of being depleted of sodium, especially during the first 60 to 90 minutes of training. You increase blood volume.
