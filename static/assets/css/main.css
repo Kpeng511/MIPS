@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	cursor: url(/images/glove.cur) 5 5, pointer;
 }
 
 ol, ul {
@@ -141,7 +142,8 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", sans-serif;
+		/* font-family: "source sans pro", sans-serif; */
+		font-family: "source sans pro", sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 1.65;
@@ -658,7 +660,7 @@ input, select, textarea {
 	}
 
 		.image:before {
-			pointer-events: none;
+			pointer-events: stroke;
 			background-image: url("../../images/overlay.png");
 			background-color: rgba(19, 21, 25, 0.5);
 			border-radius: 4px;
@@ -909,7 +911,7 @@ input, select, textarea {
 /* Icons */
 
 	ul.icons {
-		cursor: default;
+		cursor: ;
 		list-style: none;
 		padding-left: 0;
 	}
@@ -1029,7 +1031,7 @@ input, select, textarea {
 		border: 0;
 		box-shadow: inset 0 0 0 1px #ffffff;
 		color: #ffffff !important;
-		cursor: pointer;
+		cursor: url(/images/glove.cur) 5 5, pointer;
 		display: inline-block;
 		font-size: 0.8rem;
 		font-weight: 300;
@@ -1105,8 +1107,8 @@ input, select, textarea {
 		button:disabled,
 		.button.disabled,
 		.button:disabled {
-			pointer-events: none;
-			cursor: default;
+			pointer-events: auto;
+			cursor: url(/images/glove.cur) 5 5, pointer;
 			opacity: 0.25;
 		}
 
@@ -1316,10 +1318,10 @@ input, select, textarea {
 			}
 
 		#header .content {
-			border-style: solid;
+			border-style: groove;
 			border-color: #ffffff;
-			border-top-width: 1px;
-			border-bottom-width: 1px;
+			border-left-width: 1px;
+			border-right-width: 1px;
 			max-width: 100%;
 		}
 
@@ -1342,10 +1344,10 @@ input, select, textarea {
 				}
 
 			#header .content p {
-				text-transform: uppercase;
-				letter-spacing: 0.2rem;
-				font-size: 0.8rem;
-				line-height: 2;
+				text-transform: none;
+				letter-spacing: 0.15rem;
+				font-size: 0.9rem;
+				line-height: 0.8;
 			}
 
 		#header nav ul {
