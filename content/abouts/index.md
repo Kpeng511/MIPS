@@ -2,7 +2,8 @@
 title: "about us"
 ---
 
-# Table of contents
+Table of contents
+=============
 
 |  |  |
 | ----- | -------- |
@@ -23,11 +24,12 @@ title: "about us"
   - [Magnesium](#potassium-and-magnesium)
   - [Dipotassium Phosphate](#dipotassium-phosphate)
   - [Disodium Phosphate](#disodium-phosphate)
-  - [Di-Caffeine Malate](#di-caffeine-malate) |
+  - [Di-Caffeine Malate](#di-caffeine-malate)
 
 ---
 
-# Service
+Service
+=============
 
 Powered by ___&copy;, \
 We recommend pre-workout supplements that matches your specific needs.\
@@ -36,12 +38,14 @@ Business inquiries via business@mips.org.
 
 ---
 
-# Ingredients
+Ingredients
+=============
 
 Information on frequently appearing **additives** and **electrolytes** in pre-workout supplements we recommend.
 Yes, we've made sure they are *harmless* to the human body!
 
-## Additives
+Additives
+-------------
 
 ### Citric Acid
 >Manufacturers use citric acid to make their pre-workout powders more water soluble. Otherwise, you would have a hard time mixing them with liquids.
@@ -59,7 +63,8 @@ Yes, we've made sure they are *harmless* to the human body!
 > A natural emulsifier made from red seaweed and is used in food products to add thickness and viscosity.
 
 
-## Electrolytes
+Electrolytes
+-------------
 
 ### Magnesium Chloride 
 > Helps You Recover From Exercise Quicker
