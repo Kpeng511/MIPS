@@ -5,10 +5,12 @@ title: "about us"
 Table of contents
 =============
 
+
 |  |  |
 | ----- | -------- |
 | [**Service**](#service)    |
-| [**Ingredients**](#ingredients)
+| [**Basic Knowledge of Preworkouts**](#knowledge)    |
+| [**Common Ingredients**](#ingredients)
 - [Additives](#additives)
   - [Citric Acid](#citric-acid)
   - [Calcium Silicate](#calcium-silicate-and-silicon-dioxide)
@@ -31,20 +33,30 @@ Table of contents
 Service
 =============
 
-Powered by ___&copy;, \
-We recommend pre-workout supplements that matches your specific needs.\
+Powered by Pwfilter&copy;, \
+we provide accurate recommendations of pre-workout supplements that matches your specific needs.\
 \
 Business inquiries via business@mips.org.
+
+---
+
+Knowledge
+=============
+
+The link/video below is credited to certified NASM and FMS kinesiology graduate\
+[Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw).
+
+[![](https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif)](https://www.youtube.com/watch?v=7R7JO0teMZI)
 
 ---
 
 Ingredients
 =============
 
-Information on frequently appearing **additives** and **electrolytes** in pre-workout supplements we recommend.
+Information of frequently appearing **additives** and **electrolytes** in pre-workout supplements we recommend.
 Yes, we've made sure they are *harmless* to the human body!
 
-Additives
+```Additives```
 -------------
 
 ### Citric Acid
@@ -63,7 +75,7 @@ Additives
 > A natural emulsifier made from red seaweed and is used in food products to add thickness and viscosity.
 
 
-Electrolytes
+```Electrolytes```
 -------------
 
 ### Magnesium Chloride 
@@ -86,3 +98,5 @@ Electrolytes
 
 ### Di-Caffeine Malate
 > A patented ingredient from Creative Compounds, also known as Infinergy. a form of Caffeine that is buffered. It may be easier on the stomach, and it also helps with longer lasting energy as well as preventing the dreaded “crash” people may experience from Caffeine use.
+
+Business inquiries via business@mips.org.

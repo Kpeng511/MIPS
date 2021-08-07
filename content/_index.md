@@ -3,11 +3,6 @@
 title: "Pre-workout rec. Engine"
 description: "Pre-workout supplements, personalized."
 draft: true
-background: "images/main.jpg"
+background: "images/home.jpg"
 logo: "images/mips.svg"
 ---
-
-*This is the homepage of the website*
-
-{{< ref "document" >}}
-"{{< relref path="document.md" lang="ja" >}}"
