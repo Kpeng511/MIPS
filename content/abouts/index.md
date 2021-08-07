@@ -8,7 +8,7 @@ Table of contents
 
 |  |  |
 | ----- | -------- |
-| [**Service**](#service)    |
+| [**Services**](#service)    |
 | [**Basic Knowledge of Preworkouts**](#knowledge)    |
 | [**Common Ingredients**](#ingredients)
 - [Additives](#additives)
@@ -30,13 +30,13 @@ Table of contents
 
 ---
 
-Service
+Services
 =============
 
 Powered by Pwfilter&copy;, \
 we provide accurate recommendations of pre-workout supplements that matches your specific needs.\
 \
-Business inquiries via business@mips.org.
+Business inquiries via inquiry@mips.org.
 
 ---
 
@@ -99,4 +99,4 @@ Yes, we've made sure they are *harmless* to the human body!
 ### Di-Caffeine Malate
 > A patented ingredient from Creative Compounds, also known as Infinergy. a form of Caffeine that is buffered. It may be easier on the stomach, and it also helps with longer lasting energy as well as preventing the dreaded “crash” people may experience from Caffeine use.
 
-Business inquiries via business@mips.org.
+Business inquiries via inquiry@mips.org.
