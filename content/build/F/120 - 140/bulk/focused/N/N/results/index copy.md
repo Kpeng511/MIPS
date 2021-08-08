@@ -1,5 +1,6 @@
 ---
 title: "Optimum Nutrition Gold Standard"
+image: "https://m.media-amazon.com/images/I/811gXG977LS._AC_SL1500_.jpg"
 ---
 
 Table of contents
@@ -15,10 +16,13 @@ Table of contents
 ---
 Basic Info
 =============
-Product name: [Optimum Nutrition Gold Standard (blueberry lemonade)](https://shop.bodybuilding.com/products/optimum-nutrition-gold-standard-pre-workout?variant=39381939421343&skuid=OPT2760072&gclid=CjwKCAjwi9-HBhACEiwAPzUhHOkLqb61Rs7CwTGGFH_YOSlQktIG_v-7gRj6SliSyOR0QWjxowb2xxoC46IQAvD_BwE) 
-Net Weight: 10.58 ounces \
-Measurement : 10 grams per serving \
-Total carbohydrates: 3 grams
+**Product name**: [Optimum Nutrition Gold Standard (blueberry lemonade)](https://shop.bodybuilding.com/products/optimum-nutrition-gold-standard-pre-workout?variant=39381939421343&skuid=OPT2760072&gclid=CjwKCAjwi9-HBhACEiwAPzUhHOkLqb61Rs7CwTGGFH_YOSlQktIG_v-7gRj6SliSyOR0QWjxowb2xxoC46IQAvD_BwE) \
+**Pricing**: \
+**Producer**: \
+**Est. Shipping**: \
+**Shipping Fee**: \
+**Net Weight**: 10.58 ounces \
+**Per Measurement** : 10 grams per serving
 
 ---
 
@@ -26,11 +30,7 @@ Ingredients
 =============
 
 
--------------
-
-### Creatine
->
-### Beta-Alanine
+[Creatine](https://en.wikipedia.org/wiki/Creatine), [Beta-Alanine](https://en.wikipedia.org/wiki/Creatine), \
 >
 ### Citrulline Malate
 >

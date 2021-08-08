@@ -11,13 +11,20 @@ Table of contents
 | [**Services**](#service)    |
 | [**Basic Knowledge of Preworkouts**](#knowledge)    |
 | [**Common Ingredients**](#ingredients)
+
+- [Nootropics]()
+  - [Taurine]()
+  - [Theanine]()
+- [Stimulants](#stimulants)
+  - [Caffeine]()
+  - [beta-alanine]()
 - [Additives](#additives)
   - [Citric Acid](#citric-acid)
   - [Calcium Silicate](#calcium-silicate-and-silicon-dioxide)
   - [Silicon Dioxide](#calcium-silicate-and-silicon-dioxide)
   - [Cellulose gum](#cellulose-gum)
   - [Xanthan Gum](#xanthan-gum)
-  - [Carrageenan](#carrageenan)
+  - [Carrageenan](#carrageenan) 
 - [Electrolytes](#electrolytes)
   - [Magnesium Chloride](#magnesium-chloride)
   - [Sodium Citrate](#sodium-citrate)
@@ -30,7 +37,7 @@ Table of contents
 
 ---
 
-Services
+Service
 =============
 
 Powered by Pwfilter&copy;, \
