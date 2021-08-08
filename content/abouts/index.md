@@ -9,9 +9,8 @@ Table of contents
 |  |  |
 | ----- | -------- |
 | [**Services**](#service)    |
-| [**Basic Knowledge of Preworkouts**](#knowledge)    |
+| [**Basic Knowledge of Pre-workouts**](#knowledge)    |
 | [**Common Ingredients**](#ingredients)
-
 - [Nootropics]()
   - [Taurine]()
   - [Theanine]()
@@ -34,7 +33,6 @@ Table of contents
   - [Dipotassium Phosphate](#dipotassium-phosphate)
   - [Disodium Phosphate](#disodium-phosphate)
   - [Di-Caffeine Malate](#di-caffeine-malate)
-
 ---
 
 Service
@@ -63,7 +61,7 @@ Ingredients
 Information of frequently appearing **additives** and **electrolytes** in pre-workout supplements we recommend.
 Yes, we've made sure they are *harmless* to the human body!
 
-```Additives```
+[Additives](https://en.wikipedia.org/wiki/Food_additive)
 -------------
 
 ### Citric Acid
@@ -82,7 +80,7 @@ Yes, we've made sure they are *harmless* to the human body!
 > A natural emulsifier made from red seaweed and is used in food products to add thickness and viscosity.
 
 
-```Electrolytes```
+[Electrolytes](https://en.wikipedia.org/wiki/Electrolyte)
 -------------
 
 ### Magnesium Chloride 
