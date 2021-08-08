@@ -1,5 +1,5 @@
 ---
-title: "about us"
+title: "Optimum Nutrition Gold Standard"
 ---
 
 Table of contents
@@ -8,62 +8,54 @@ Table of contents
 
 |  |  |
 | ----- | -------- |
-| [**Services**](#service)    |
-| [**Basic Knowledge of Preworkouts**](#knowledge)    |
-| [**Common Ingredients**](#ingredients)
-- [Additives](#additives)
-  - [Citric Acid](#citric-acid)
-  - [Calcium Silicate](#calcium-silicate-and-silicon-dioxide)
-  - [Silicon Dioxide](#calcium-silicate-and-silicon-dioxide)
-  - [Cellulose gum](#cellulose-gum)
-  - [Xanthan Gum](#xanthan-gum)
-  - [Carrageenan](#carrageenan)
-- [Electrolytes](#electrolytes)
-  - [Magnesium Chloride](#magnesium-chloride)
-  - [Sodium Citrate](#sodium-citrate)
-  - [Sodium Chloride](#sodium-chloride)
-  - [Potassium](#potassium-and-magnesium)
-  - [Magnesium](#potassium-and-magnesium)
-  - [Dipotassium Phosphate](#dipotassium-phosphate)
-  - [Disodium Phosphate](#disodium-phosphate)
-  - [Di-Caffeine Malate](#di-caffeine-malate)
+| [**Basic Info**](#basic-info)    |
+| [**Ingredients**](#ingredients)  |
+| [**Effects**](#effects)  |
 
 ---
-
-Services
+Basic Info
 =============
-
-Powered by Pwfilter&copy;, \
-we provide accurate recommendations of pre-workout supplements that matches your specific needs.\
-\
-Business inquiries via inquiry@mips.org.
-
----
-
-Knowledge
-=============
-
-The link/video below is credited to certified NASM and FMS kinesiology graduate\
-[Jeremy Ethier](https://www.youtube.com/channel/UCERm5yFZ1SptUEU4wZ2vJvw).
-
-[![](https://media.giphy.com/media/13Nc3xlO1kGg3S/giphy.gif)](https://www.youtube.com/watch?v=7R7JO0teMZI)
+Product name: [Optimum Nutrition Gold Standard (blueberry lemonade)](https://shop.bodybuilding.com/products/optimum-nutrition-gold-standard-pre-workout?variant=39381939421343&skuid=OPT2760072&gclid=CjwKCAjwi9-HBhACEiwAPzUhHOkLqb61Rs7CwTGGFH_YOSlQktIG_v-7gRj6SliSyOR0QWjxowb2xxoC46IQAvD_BwE) 
+Net Weight: 10.58 ounces \
+Measurement : 10 grams per serving \
+Total carbohydrates: 3 grams
 
 ---
 
 Ingredients
 =============
 
-Information of frequently appearing **additives** and **electrolytes** in pre-workout supplements we recommend.
-Yes, we've made sure they are *harmless* to the human body!
 
-```Additives```
 -------------
 
-### Citric Acid
->Manufacturers use citric acid to make their pre-workout powders more water soluble. Otherwise, you would have a hard time mixing them with liquids.
+### Creatine
+>
+### Beta-Alanine
+>
+### Citrulline Malate
+>
 
-### Calcium Silicate and Silicon Dioxide
+### L-Carnitine
+>
+### Tyrosine
+>
+
+### Silicon Dioxide
 > Both are [anti-caking agents](https://en.wikipedia.org/wiki/Anticaking_agent) that absorb moisture and allow powder to flow freely.
+
+### Calcium Silicate
+>
+### Caffeine
+>
+### Tartaric Acid
+>
+### AstraGIN
+>
+### Nicotonic Acid
+>
+### Acesulfame Potassium
+>
+### D-Calcium Pantothenate
 
 ### Cellulose gum
 > A thickening agent, a completely natural product that is derived from the cell walls of plants. Typically it comes from wood pulp and cotton seeds. it can also be used as a stabilizer in food and non-food products. It can reduce acidity, pH balance, also used as an absorbing agent. It can absorb a certain amount of oil in fried foods and it absorbs water up to 20 times of its weight. For this reason it is sometimes used to maintain the moisture in certain foods as well.
@@ -74,10 +66,22 @@ Yes, we've made sure they are *harmless* to the human body!
 ### Carrageenan
 > A natural emulsifier made from red seaweed and is used in food products to add thickness and viscosity.
 
-
-```Electrolytes```
--------------
-
+### Vitamin B6
+>
+### Vitamin B12
+>
+### Vitamin D
+>
+### Thiamin HCl
+>
+### Folic Acid
+>
+###  Calcium
+>
+###  Sodium
+>
+### Tea extract
+>
 ### Magnesium Chloride 
 > Helps You Recover From Exercise Quicker
 
@@ -99,4 +103,10 @@ Yes, we've made sure they are *harmless* to the human body!
 ### Di-Caffeine Malate
 > A patented ingredient from Creative Compounds, also known as Infinergy. a form of Caffeine that is buffered. It may be easier on the stomach, and it also helps with longer lasting energy as well as preventing the dreaded “crash” people may experience from Caffeine use.
 
+---
+Effects
+=============
+Focus(tyrosine, L-Carnitine), get pump(Citrulline Malate), bulking(Creatine), less fatigue(Beta-Alanine), more indurance(Beta-Alanine), Cutting(sL-Carnitine)
+
+---
 Business inquiries via inquiry@mips.org.
