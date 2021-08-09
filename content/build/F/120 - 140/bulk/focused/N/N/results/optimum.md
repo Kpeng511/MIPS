@@ -1,11 +1,8 @@
 ---
-title: "Optimum Nutrition Gold Standard"
-image: "https://m.media-amazon.com/images/I/811gXG977LS._AC_SL1500_.jpg"
+title: Optimum Nutrition Gold Standard
 ---
-
 Table of contents
 =============
-
 
 |  |  |
 | ----- | -------- |
