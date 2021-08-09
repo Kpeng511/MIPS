@@ -1,7 +1,6 @@
 # Just playing around; _index.md decides front matter.
 baseURL = "http://mips.github.io"
 languageCode = "en-us"
-title = "Pwfilter Copr."
 copyright = "© copyright notice"
 theme = "dimension"
 googleAnalytics = ""

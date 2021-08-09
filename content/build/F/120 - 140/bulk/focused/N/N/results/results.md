@@ -1,17 +1,23 @@
 
 ---
 title: "Results"
-logo: "../../../../../../../../images/mips.svg"
-draft: true
 ---
 
 ```
-Hit <- after viewing product.
+Add some type of filter here?
 ```
 
-[**Gold Standard | Optimum Nutrition®**]({{< ref "/products/#optimum-nutrition-gold-standard" >}} "Gold Standard") \
-[![](/images/optimum-gold.jpg)]({{< ref "/products/#optimum-nutrition-gold-standard" >}} "Gold Standard")
+<form method="get">
+    <a href="/products/list/#optimum-nutrition-gold-standard" class="button">Gold Standard | Optimum Nutrition®</a>
+</form>
 
+[![](/images/optimum-gold.jpg)]({{< ref "/products/list/#optimum-nutrition-gold-standard" >}} "Gold Standard")
 
+---
 
- 
+<form method="get">
+    <a href="/products/list/#optimum-nutrition-gold-standard" class="button">Gold Standard | Optimum Nutrition®</a>
+</form>
+
+[![](/images/optimum-gold.jpg)]({{< ref "/products/list/#optimum-nutrition-gold-standard" >}} "Gold Standard")
+

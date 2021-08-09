@@ -1,7 +1,7 @@
 
 ---
 title: "All Products"
-description: "We recommend trying build for a complete full user experience."
+description: "There is a sea of supplements. Try using BUILD to find ones that match you."
 logo: "../images/mips.svg"
-draft: false
+background: "https://media.giphy.com/media/7GHRDluBmx9O8/giphy.gif"
 ---
