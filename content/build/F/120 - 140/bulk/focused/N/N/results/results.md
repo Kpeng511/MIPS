@@ -9,8 +9,8 @@ draft: true
 Hit <- after viewing product.
 ```
 
-[**Gold Standard | Optimum Nutrition®**]({{< ref "/products/#optimum-nutrition-gold-standard" >}} "optimum") \
-[![](/images/optimum-gold.jpg)]({{< ref "/products/#optimum-nutrition-gold-standard" >}} "optimum")
+[**Gold Standard | Optimum Nutrition®**]({{< ref "/products/#optimum-nutrition-gold-standard" >}} "Gold Standard") \
+[![](/images/optimum-gold.jpg)]({{< ref "/products/#optimum-nutrition-gold-standard" >}} "Gold Standard")
 
 
 
