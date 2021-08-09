@@ -1,9 +1,6 @@
 ---
-title: Optimum Nutrition Gold Standard
+title: "Optimum Nutrition Gold Standard"
 ---
-Table of contents
-=============
-
 |  |  |
 | ----- | -------- |
 | [**Basic Info**](#basic-info)    |
