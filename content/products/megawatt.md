@@ -1,5 +1,5 @@
 ---
-title: "MEGAWATT Pre-Workout"
+title: "MEGAWATT"
 ---
 
 ![](/images/megawatt.jpg)

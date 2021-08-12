@@ -1,5 +1,5 @@
 w---
-title: "GHOST® LEGEND® V2 Pre-Workout"
+title: "GHOST® LEGEND® V2"
 ---
 
 ![](/images/ghost-legend-v2-pre-workout.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "Zuum Pre-Workout"
+title: "Zuum"
 ---
 
 ![](/images/zuum.jpg)

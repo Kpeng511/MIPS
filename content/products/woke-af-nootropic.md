@@ -1,5 +1,5 @@
 ---
-title: "Bucked Up® Woke AF™ Nootropic Pre-Workout"
+title: "Bucked Up® Woke AF™"
 ---
 
 ![](/images/woke-af-nootropic.jpg)

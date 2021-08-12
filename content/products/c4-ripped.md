@@ -1,5 +1,5 @@
 ---
-title: "C4 Ripped Sport Pre-Workout Powder"
+title: "C4 Ripped Sport"
 ---
 
 ![](/images/c4-ripped.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "Legion® Pulse Pre-Workout"
+title: "Legion® Pulse"
 ---
 
 ![](/images/pulse.jpg)

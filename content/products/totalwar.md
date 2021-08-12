@@ -1,5 +1,5 @@
 ---
-title: "Redcon1 Total War® Pre-Workout"
+title: "Redcon1 Total War®"
 ---
 
 ![](/images/totalwar.jpg)

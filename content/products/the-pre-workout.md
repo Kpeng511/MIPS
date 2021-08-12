@@ -1,5 +1,5 @@
 ---
-title: "THE Pre-Workout™"
+title: "THE Pre-workout™"
 ---
 
 ![](/images/the-pre-workout.jpg)
