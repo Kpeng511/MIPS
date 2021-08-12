@@ -25,3 +25,20 @@ title: "Results"
 
 [![](/images/ghost.jpg)]({{< ref "/products/#ghost-legend-v2" >}} "Ghost Legend V2")
 
+---
+
+<form method="get">
+    <a href="/products/#megawatt" class= "button">Megawatt</a>
+</form>
+
+[![](/images/megawatt.jpg)]({{< ref "/products/#megawatt" >}} "Megawatt")
+
+---
+
+<form method="get">
+    <a href="/products/#zuum" class= "button">Zuum</a>
+</form>
+
+[![](/images/zuum.jpg)]({{< ref "/products/#zuum" >}} "Zuum")
+
+

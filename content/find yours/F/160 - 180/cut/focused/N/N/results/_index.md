@@ -9,3 +9,11 @@ title: "Results"
 
 [![](/images/ghost.jpg)]({{< ref "/products/#ghost-legend-v2" >}} "Ghost Legend V2")
 
+---
+
+<form method="get">
+    <a href="/products/#redcon1-total-war">Redcon1 Total War</a>
+</form>
+
+[![](/images/totalwar.jpg)]({{< ref "/products/#edcon1-total-war" >}} "Redcon1 Total War")
+

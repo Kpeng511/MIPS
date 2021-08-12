@@ -16,3 +16,19 @@ title: "Results"
 </form>
 
 [![](/images/c4rip.jpg)]({{< ref "/products/#c4-ripped-sport" >}} "C4 Ripped Sport")
+
+---
+
+<form method="get">
+    <a href="/products/#megawatt" class= "button">Megawatt</a>
+</form>
+
+[![](/images/megawatt.jpg)]({{< ref "/products/#megawatt" >}} "Megawatt")
+
+---
+
+<form method="get">
+    <a href="/products/#zuum" class= "button">Zuum</a>
+</form>
+
+[![](/images/zuum.jpg)]({{< ref "/products/#zuum" >}} "Zuum")
