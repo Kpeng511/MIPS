@@ -63,8 +63,7 @@ Important Ingredients
 ---
 Effects
 =============
-Optimum Nutrition® Gold Standard is best suited for cutting. The product goes along with training aiming for 
-
+Optimum Nutrition® Gold Standard is best suited for cutting. 
 
 ---
 Business inquiries via inquiry@mips.org.
