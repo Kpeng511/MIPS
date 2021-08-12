@@ -16,3 +16,12 @@ title: "Results"
 </form>
 
 [![](/images/c4rip.jpg)]({{< ref "/products/#c4-ripped-sport" >}} "C4 Ripped Sport")
+
+---
+
+<form method="get">
+    <a href="/products/#ghost-legend-v2">Ghost Legend V2</a>
+</form>
+
+[![](/images/ghost.jpg)]({{< ref "/products/#ghost-legend-v2" >}} "Ghost Legend V2")
+
