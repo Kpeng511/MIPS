@@ -14,7 +14,7 @@ title: "GHOST® LEGEND® V2"
 | [**Important Ingredients**](#important-ingredients)  |
 | [**Effects**](#effects)  |
 
----
+
 Basic Info
 =============
 **Product name**: [GHOST® LEGEND® V2 Pre-Workout(Cherry Limeade)](https://www.gnc.com/new-arrivals-shop-all/527973.html?mrkgadid=&mrkgcl=1098&mrkgen=&mrkgbflag=&mrkgcat=&acctid=21700000001526007&&dskeywordid=92700057937791656&lid=92700057937791656&ds_s_kwgid=58700006417899872&ds_s_inventory_feed_id=97700000003618928&dsproductgroupid=317461650145&product_id=527973&merchid=1418768&prodctry=US&prodlang=en&channel=online&storeid=%7Bproduct_store_id%7D&device=c&network=u&matchtype=&locationid=%7Bloc_phyiscal_ms%7D&creative=472640341132&targetid=pla-317461650145&campaignid=11357099411&adgroupid=111332759517&gclid=CjwKCAjwi9-HBhACEiwAPzUhHMZX76D_X13syH7UvHhljH-EEiFQpJE63OWBtH2LUZVj8R6sWsBjaxoCoE0QAvD_BwE&gclsrc=aw.ds) \

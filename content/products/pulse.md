@@ -14,7 +14,7 @@ title: "Legion® Pulse"
 | [**Important Ingredients**](#important-ingredients)  |
 | [**Effects**](#effects)  |
 
----
+
 Basic Info
 =============
 **Product name**: [Legion Pulse Pre-Workout(Fruit Punch)](https://legionathletics.com/products/supplements/pulse-pre-workout/?frequency=one-time&gclid=Cj0KCQjw6s2IBhCnARIsAP8RfAgdGXcNU-2oEWVjBAjOtQqyIcsbuovhp4jLOa_JZJa_Daqlk4-004gaAjMQEALw_wcB) \

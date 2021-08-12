@@ -14,7 +14,7 @@ title: "RSP AnimoLean®"
 | [**Important Ingredients**](#important-ingredients)  |
 | [**Effects**](#effects)  |
 
----
+
 Basic Info
 =============
 **Product name**: [RSP AnimoLean(Pink Lemonade)](https://www.iherb.com/pr/rsp-nutrition-aminolean-essential-amino-acids-anytime-energy-pink-lemonade-9-52-oz-270-g/102927?gclid=CjwKCAjwi9-HBhACEiwAPzUhHPwycsYuFSoRSRBx3ZvgZiq99p9iVMSHJBOoZBleLXs2j0qLJP1n5hoCcLwQAvD_BwE&gclsrc=aw.ds) \

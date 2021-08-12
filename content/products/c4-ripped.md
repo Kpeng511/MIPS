@@ -2,7 +2,7 @@
 title: "C4 Ripped Sport"
 ---
 
-![](/images/c4-ripped.jpg)
+![](/images/c4rip.jpg)
 
 <form>
  <input type="button" value="go back" onclick="history.back()">
@@ -14,7 +14,7 @@ title: "C4 Ripped Sport"
 | [**Important Ingredients**](#important-ingredients)  |
 | [**Effects**](#effects)  |
 
----
+
 Basic Info
 =============
 **Product name**: [C4 Ripped Sport Pre Workout Powder (Arctic Snow Cone)](https://cellucor.com/products/c4-ripped-sport?pr_prod_strat=description&pr_rec_pid=210167136274&pr_ref_pid=8483851346&pr_seq=uniform) \

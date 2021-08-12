@@ -2,7 +2,7 @@
 title: "Bucked Up® Woke AF™"
 ---
 
-![](/images/woke-af-nootropic.jpg)
+![](/images/wokeafnootropic.jpg)
 
 <form>
  <input type="button" value="go back" onclick="history.back()">
@@ -14,7 +14,7 @@ title: "Bucked Up® Woke AF™"
 | [**Important Ingredients**](#important-ingredients)  |
 | [**Effects**](#effects)  |
 
----
+
 Basic Info
 =============
 **Product name**: [Bucked Up® Woke AF™ Nootropic Pre-Workout(strawberry kiwi)](https://www.gnc.com/best-sellers-shop-all/500439.html?mrkgadid=&mrkgcl=1098&mrkgen=&mrkgbflag=&mrkgcat=&acctid=21700000001526007&&dskeywordid=92700057937791656&lid=92700057937791656&ds_s_kwgid=58700006417899872&ds_s_inventory_feed_id=97700000003618928&dsproductgroupid=317461650145&product_id=500439&merchid=1418768&prodctry=US&prodlang=en&channel=online&storeid=%7Bproduct_store_id%7D&device=c&network=u&matchtype=&locationid=%7Bloc_phyiscal_ms%7D&creative=472640341132&targetid=pla-317461650145&campaignid=11357099411&adgroupid=111332759517&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D_SqtB3vhdjmTAXeVkVPrjpSbTRcM--vGew_sJ2ujxUgUXcRg-ivIcaAgnOEALw_wcB&gclsrc=aw.ds) \

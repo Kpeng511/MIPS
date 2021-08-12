@@ -14,7 +14,7 @@ title: "Optimum Nutrition® Gold Standard"
 | [**Important Ingredients**](#important-ingredients)  |
 | [**Effects**](#effects)  |
 
----
+
 Basic Info
 =============
 **Product name**: [Optimum Nutrition Gold Standard (blueberry lemonade)](https://shop.bodybuilding.com/products/optimum-nutrition-gold-standard-pre-workout?variant=39381939421343&skuid=OPT2760072&gclid=CjwKCAjwi9-HBhACEiwAPzUhHOkLqb61Rs7CwTGGFH_YOSlQktIG_v-7gRj6SliSyOR0QWjxowb2xxoC46IQAvD_BwE) \

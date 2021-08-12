@@ -14,7 +14,7 @@ title: "MEGAWATT"
 | [**Important Ingredients**](#important-ingredients)  |
 | [**Effects**](#effects)  |
 
----
+
 Basic Info
 =============
 **Product name**: [MEGAWATT Pre-Workout(watermelon)](https://1stphorm.com/products/megawatt?variant=33375756681302&a_aid=f7076c74&utm_source=google&utm_medium=surfaces&utm_content=Megawatt%20by%201st%20Phorm_1603&a_aid=f7076c74&utm_source=GooglePLA&utm_campaign=quattro&utm_medium=cpc&utm_content=11304424524_110085376799_%7Bproductid%7D&gclid=Cj0KCQjw3f6HBhDHARIsAD_i3D_LG92xbjf2sK_QymlEcLkGy1uU6Kft6QcoM3YlWeyuLYblSt7ufvIaAuxkEALw_wcB) \
