@@ -2,6 +2,10 @@
 title: "about us"
 ---
 
+<form method="get">
+    <a href="/" class="button">back to homepage</a>
+</form>
+
 Table of contents
 =============
 
@@ -69,7 +73,6 @@ Ingredients
 =============
 
 Information of frequently appearing **additives** and **electrolytes** in pre-workout supplements we recommend.
-Yes, we've made sure they are *harmless* to the human body!
 
 [Additives](https://en.wikipedia.org/wiki/Food_additive)
 -------------
